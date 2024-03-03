@@ -1,0 +1,2 @@
+# host.cfg
+Salt configuration
